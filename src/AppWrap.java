@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.security.SecureRandom;
 
 /**
-* @author Colby
+* @author NOODLE
 */
 public class AppWrap {
 
